@@ -1,2 +1,7 @@
 peas
 carrot
+cabbage
+tomato
+potato
+onion
+lettuce
