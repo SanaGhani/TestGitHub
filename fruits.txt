@@ -3,3 +3,5 @@ mellon
 grapes
 apple
 pineapple
+banana
+oranges
